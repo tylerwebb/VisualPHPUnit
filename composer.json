@@ -1,0 +1,16 @@
+{
+  "name": "nsinopoli/visualphpunit",
+  "type": "library",
+  "description": "VisualPHPUnit",
+  "keywords": ["phpunit"],
+  "homepage": "http://vpu.mine.nu/",
+  "license": "custom",
+  "authors": [
+    {
+      "name": "Nick Sinopoli",
+      "email": "nsinopoli@gmail.com",
+      "homepage": "http://vpu.mine.nu/",
+      "role": "Developer"
+    }
+  ]
+}
